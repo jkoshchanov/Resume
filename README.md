@@ -18,7 +18,7 @@ With over 18 years of hands-on testing experience spanning fintech, capital mark
 ## 🧠 Technical Skills
 | Testing & QA Skills | Automation Tools | Programming Languages | Other Tech |
 |--------------------|------------------|------------------------|------------|
-| Functional, Regression, Performance, Integration, UAT, Black/Grey/White-Box | Selenium, Cypress, Playwright, Cucumber/Gherkin BDD | JavaScript/TypeScript, Python, Shell Scripting | FIX API, Git/GitHub/GitLab, CI/CD (Jenkins), HTML5, CSS3 |
+| Functional, Regression, Performance, Integration, UAT, Black/Grey/White-Box | Selenium, Cypress, Playwright, Cucumber/Gherkin BDD | JavaScript/TypeScript, Python, Shell Scripting | FIX API, Git/[...] |
 | Trade Feed & Order Flow Testing | QTP/UFT, TestNG, Maven | Unix/Linux scripting | Databases (MySQL), Bloomberg NDIM/DRQS, AntHillPro |
 | Trading Platforms (Spot, Outright, Swaps, NDF/NDS) | AI-Driven Test Optimization | Web3, Blockchain, Cryptocurrency | Business Analytics, Product Management |
 
@@ -42,6 +42,23 @@ With over 18 years of hands-on testing experience spanning fintech, capital mark
 - State Street Bank — Senior SQA Consultant  _(2011–2013)_ 
 - United Health Group — SQA Consultant  _(2010–2011)_ 
 - First Tennessee Bank — Junior SQA Consultant _(2007–2010)_ 
+
+---
+
+## 🎓 Education
+
+**MBA | University of Illinois at Urbana [Online]**  
+_Specialized In:_  
+- Data Science/Analytics  
+- Strategic Leadership & Management  
+- Managerial Economics & Business  
+- Value Chain Management  
+- Financial Management  
+- Entrepreneur & Strategic Innovation
+
+**BBA | Tennessee State University [Nashville, Tennessee]**  
+_Specialized In:_  
+- Economics & Finance
 
 ---
 
