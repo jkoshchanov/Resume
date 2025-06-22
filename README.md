@@ -5,7 +5,7 @@ Welcome to my resume and professional profile repository!
 ---
 
 ## 📄 Resume
-[**📂 View or Download My Resume (PDF)**]([https://github.com/jkoshchanov/resume/raw/main/Koshchanov_Resume.pdf](https://github.com/jkoshchanov/Resume/blob/main/Koshchanov_Resume.pdf))
+[**📂 View or Download My Resume (PDF)**][https://github.com/jkoshchanov/resume/raw/main/Koshchanov_Resume.pdf](https://github.com/jkoshchanov/Resume/blob/main/Koshchanov_Resume.pdf]
 
 ---
 
